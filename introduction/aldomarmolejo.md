@@ -1,3 +1,3 @@
 Aldo Marmolejo
 
-I'm interested in taking the class AP Computer Science Principles 
+I'm interested in taking the AP Computer Science Principles class because I have always had an interest in 
