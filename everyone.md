@@ -7,7 +7,7 @@ Type your name, your favorite animal on any of the line below. When you are done
 4. _
 5. _
 6. _Manuel Juarez, Monkey
-7. _
+7. _Allan Guijosa, Dog
 8. _
 9. _
 10. _
