@@ -9,7 +9,7 @@ Type your name, your favorite animal on any of the line below. When you are done
 2. _
  main
 3. Jeremias Garcia, Cat
-4. _
+4. _Allan Guijosa, Dog
 5. _
 6. _Manuel Juarez, Monkey
 7. _
